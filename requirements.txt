@@ -4,3 +4,4 @@ motor
 pydantic
 pydantic-settings
 pymongo
+argon2-cffi
